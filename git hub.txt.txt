@@ -1,6 +1,7 @@
 Things To Know About git & Github;
 
 FIRST THING TO DO---
+-Create Account with github
 -Download git
 -Open file folder and create git repo locally
 -Open github account and create new repo
